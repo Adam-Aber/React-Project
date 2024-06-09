@@ -12,6 +12,7 @@ const something = (num1, num2, word) => {
 
   const same = firstLetter === letterOne;
 
+  
   if (isEqual) {
     const squared = mul;
     return squared;
